@@ -14,6 +14,9 @@
 
 ### 📕 My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficient Way of Cleaning up AWS CloudFormation Stacks](https://nirdoshgautam.hashnode.dev/cleanup-aws-cloudformation-stacks)
+- [From Monolithic to Microservices Architecture - What to expect?](https://nirdoshgautam.hashnode.dev/from-monolithic-to-microservices-architecture-the-mindset-change-bf065fdfe701)
+- [How to create your own Custom Terminal Commands](https://nirdoshgautam.hashnode.dev/how-to-create-your-own-custom-terminal-commands-c5008782a78e)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
