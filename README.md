@@ -11,8 +11,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirdosh17&langs_count=7&hide=css,html,coffeescript&layout=compact)
 
+### 🎓 My Certifications
+<a target='_blank' href='https://www.credly.com/badges/f95d494c-6b83-4a86-8d74-72dcb9058452/public_url'><img src='https://github-production-user-asset-6210df.s3.amazonaws.com/5920689/267026825-85a9e9de-2d30-4bb5-a10c-2dc6ef27b366.png' alt="AWS Solution Architect - Associate"></a>
 
-### 📕 My Recent Blog Posts
+### 📕 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Efficient Way of Cleaning up AWS CloudFormation Stacks](https://nirdoshgautam.dev/cleanup-aws-cloudformation-stacks)
 - [From Monolithic to Microservices Architecture - What to expect?](https://nirdoshgautam.dev/from-monolithic-to-microservices-architecture-the-mindset-change-bf065fdfe701)
