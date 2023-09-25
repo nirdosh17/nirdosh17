@@ -16,10 +16,10 @@
 
 ### 📕 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready Go Client Library: Considerations](https://nirdoshgautam.hashnode.dev/building-go-sdk)
-- [Efficient Way of Cleaning up AWS CloudFormation Stacks](https://nirdoshgautam.hashnode.dev/cleanup-aws-cloudformation-stacks)
-- [From Monolithic to Microservices Architecture - What to expect?](https://nirdoshgautam.hashnode.dev/from-monolithic-to-microservices-architecture-the-mindset-change-bf065fdfe701)
-- [How to create your own Custom Terminal Commands](https://nirdoshgautam.hashnode.dev/how-to-create-your-own-custom-terminal-commands-c5008782a78e)
+- [Building a Production-Ready Go Client Library: Considerations](https://nirdoshgautam.dev/building-go-sdk)
+- [Efficient Way of Cleaning up AWS CloudFormation Stacks](https://nirdoshgautam.dev/cleanup-aws-cloudformation-stacks)
+- [From Monolithic to Microservices Architecture - What to expect?](https://nirdoshgautam.dev/from-monolithic-to-microservices-architecture-the-mindset-change-bf065fdfe701)
+- [How to create your own Custom Terminal Commands](https://nirdoshgautam.dev/how-to-create-your-own-custom-terminal-commands-c5008782a78e)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
