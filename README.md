@@ -16,11 +16,11 @@
 
 ### 📕 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running local docker images in Minikube](https://nirdoshgautam.dev/running-local-docker-images-in-minikube)
 - [OOP Patterns in Go: Methods, Interfaces and Type Embedding](https://nirdoshgautam.dev/oop-patterns-in-go-methods-interfaces-and-type-embedding)
 - [A Guide to Effective Go Documentation](https://nirdoshgautam.dev/effective-go-documentation)
 - [Building a Production-Ready Go Client Library: Considerations](https://nirdoshgautam.dev/building-go-sdk)
 - [Efficient Way of Cleaning up AWS CloudFormation Stacks](https://nirdoshgautam.dev/cleanup-aws-cloudformation-stacks)
-- [From Monolithic to Microservices Architecture - What to expect?](https://nirdoshgautam.dev/from-monolithic-to-microservices-architecture-the-mindset-change-bf065fdfe701)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
