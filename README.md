@@ -21,6 +21,8 @@
 - [A Guide to Effective Go Documentation](https://nirdoshgautam.dev/effective-go-documentation)
 - [Building a Production-Ready Go Client Library: Considerations](https://nirdoshgautam.dev/building-go-sdk)
 - [Efficient Way of Cleaning up AWS CloudFormation Stacks](https://nirdoshgautam.dev/cleanup-aws-cloudformation-stacks)
+- [From Monolithic to Microservices Architecture - What to expect?](https://nirdoshgautam.dev/from-monolithic-to-microservices-architecture-the-mindset-change-bf065fdfe701)
+- [How to create your own Custom Terminal Commands](https://nirdoshgautam.dev/how-to-create-your-own-custom-terminal-commands-c5008782a78e)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
