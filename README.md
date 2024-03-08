@@ -13,6 +13,8 @@
 
 ### 🎓 My Certifications
 <a target='_blank' href='https://www.credly.com/badges/f95d494c-6b83-4a86-8d74-72dcb9058452/public_url'><img src='https://github-production-user-asset-6210df.s3.amazonaws.com/5920689/267026825-85a9e9de-2d30-4bb5-a10c-2dc6ef27b366.png' alt="AWS Solution Architect - Associate"></a>
+<a target='_blank' href='https://www.credly.com/badges/f8aaaf78-18c4-49b9-afaf-807357e17f10/public_url'><img src='https://github.com/nirdosh17/learn/assets/5920689/6021d338-c0c1-4c15-877f-466e60117b8a' alt="CKAD: Certified Kubernetes Application Developer"></a>
+
 
 ### 📕 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
