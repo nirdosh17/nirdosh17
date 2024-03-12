@@ -18,6 +18,8 @@
 
 ### 📕 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Go programs using Delve](https://nirdoshgautam.dev/debugging-golang-with-delve)
+- [Acing the Kubernetes CKAD exam](https://nirdoshgautam.dev/ckad-prep)
 - [Running local docker images in Minikube](https://nirdoshgautam.dev/running-local-docker-images-in-minikube)
 - [OOP Patterns in Go: Methods, Interfaces and Type Embedding](https://nirdoshgautam.dev/oop-patterns-in-go-methods-interfaces-and-type-embedding)
 - [A Guide to Effective Go Documentation](https://nirdoshgautam.dev/effective-go-documentation)
