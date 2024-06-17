@@ -2,7 +2,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Nirdosh | Blogs" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="Nirdosh | Blogs and projects" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="nirdoshgautam | Medium" width="25px" src="https://github.com/nirdosh17/nirdosh17/assets/5920689/8c906e8c-2257-4592-974e-2e781bd5b996" />][medium]
 [<img align="left" alt="ng_nirdosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nirdosh-gautam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -35,3 +36,4 @@
 [blog]: https://nirdoshgautam.hashnode.dev
 [twitter]: https://twitter.com/ng_nirdosh
 [linkedin]: https://www.linkedin.com/in/nirdosh-gautam
+[medium]: https://medium.com/@nirdoshgautam
